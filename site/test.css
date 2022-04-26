@@ -1,0 +1,25 @@
+body
+{
+    color:red;
+    background-color: yellow;
+}
+
+
+
+p{
+    background-color: cyan;
+}
+
+#p1
+{
+    width: 50%;
+    background-color: green;
+    height: 200px;
+
+}
+
+.c1
+{
+    width: 50%
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
